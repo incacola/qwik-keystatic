@@ -11,22 +11,18 @@ export default component$(() => {
             <QwikLogo height={50} width={143} />
           </a>
         </div>
-        <ul>
+        <ul class="hidden">
           <li>
-            <a href="https://qwik.builder.io/docs/components/overview/" target="_blank">
-              Docs
+            <a href="https://qwik.builder.io/docs/" target="_blank">
+              Qwik Docs
             </a>
           </li>
           <li>
-            <a href="https://qwik.builder.io/examples/introduction/hello-world/" target="_blank">
-              Examples
+            <a href="https://keystatic.com/" target="_blank">
+              Keystatic Docs
             </a>
           </li>
-          <li>
-            <a href="https://qwik.builder.io/tutorial/welcome/overview/" target="_blank">
-              Tutorials
-            </a>
-          </li>
+
         </ul>
       </div>
     </header>
